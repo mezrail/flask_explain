@@ -88,6 +88,35 @@ emimemo@DESKTOP-I5G6P5T MINGW64 ~/Desktop/flasker (master)
 master olarak git baslar, suan master branch tayiz ilerde anlaticuum
 
 $ git add .    yap 
+$ git commit -am 'initial commit' yap baslangic yorumu yapion burda 
+degisiklik yapinca yeni bi dal olarak yorumlaycen
+
+virt yok cunku gitignore file ile kestik
+
+simdi github a push luycaz bunlari.ilk basta repository olusturmustuk githubda
+github a gec profilden your repository kismina gec
+
+new tikla isim ver public sec herkes gorursun
+
+create repository e tikla  bi sonraki sayfa push lama komutlarini verecek
+
+git remote add origin https://github.com/mezrail/flask_explain.git   enterla bashte
+git branch -M main   enterla bashte
+
+
+github a gec reloadla yuklemistir.
+
+
+diyelim kodda bi degisiklik yaptik yapmamiz gereken 
+virtual environment aktif ve git baslatilmisken
+git add .   enterlamak sonrak
+git commit -am 'changing 1'  enterla
+
+done
+
+
+
+
 
 
 
