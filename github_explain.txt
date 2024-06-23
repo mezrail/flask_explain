@@ -109,8 +109,10 @@ github a gec reloadla yuklemistir.
 
 diyelim kodda bi degisiklik yaptik yapmamiz gereken 
 virtual environment aktif ve git baslatilmisken
-git add .   enterlamak sonrak
+git add .   enter
 git commit -am 'changing 1'  enterla
+
+git push  enter
 
 done
 
